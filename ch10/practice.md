@@ -13,3 +13,10 @@ vec will be empty.
 
 ## 10.8
 I don not konw why.
+
+## 10.23
+The function prototype of bind is.
+```cpp
+bind(callable, arg_list)
+```
+So, there are two types of parameters needed to be called, the the number of parameters is not limited.

@@ -17,6 +17,7 @@ int main(int argc, char* argv[]){
 
     elimDups(vec_str);
 
+    // use this method to disp the vector content.
     ostream_iterator<typeT> out(cout, " ");
     copy(vec_str.begin(), vec_str.end(), out);
 
