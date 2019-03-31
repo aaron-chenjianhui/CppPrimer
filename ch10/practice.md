@@ -20,3 +20,6 @@ The function prototype of bind is.
 bind(callable, arg_list)
 ```
 So, there are two types of parameters needed to be called, the the number of parameters is not limited.
+
+## 10.39
+list has bidirectional iterator and vector has random-access iterator.
